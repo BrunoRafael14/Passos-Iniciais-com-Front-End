@@ -1,0 +1,38 @@
+body{
+    background-color:#e6c9a8 ;
+}
+
+.principal-titulo {
+    margin: 0 0 100px 0;
+    border: solid black 2px;
+    border-radius: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #5d4037;
+}
+
+.informacoes{
+    /* border: solid black 2px; */
+    width: 300px;
+    margin-right: 400px;
+}
+
+.foto{
+    height: 400px;
+    width: 700px;
+    border-radius: 55px;
+}
+
+#foto-albuns{
+    border: solid black 5px;
+}
+
+.midia-geral{
+    /* border: solid black 2px; */
+    display: flex;
+}
+
+.nome-listas{
+    color:rgb(101, 28, 28);
+}
